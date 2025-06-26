@@ -1,0 +1,11 @@
+{
+  "name": "glitch-keeper",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "vercel"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
